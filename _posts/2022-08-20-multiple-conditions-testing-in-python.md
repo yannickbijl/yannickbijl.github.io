@@ -62,4 +62,4 @@ else:
     print("all false")
 ```
 
-The lists can be larger than 3 conditions. The larger the number, the more useful the methods `all` and `any` will be. However, in the case you have 2 conditions (or 3 really simple ones) just use an `if` statement in combination with `and`/`or`. Readability matters in the end, and this will depend on the number and complexity of the conditions.
+The lists can be larger than 3 conditions. The larger the number, the more useful the methods `all` and `any` will be. However, in the case you have 2 conditions (or 3 really simple ones) using an `if` statement in combination with `and`/`or` will likely be the better option. Readability matters in the end, and this will depend on the number and complexity of the conditions.
