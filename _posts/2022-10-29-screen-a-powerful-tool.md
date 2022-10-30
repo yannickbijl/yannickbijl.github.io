@@ -12,7 +12,7 @@ To start, simply type the command `screen`. This opens an interactive background
 
 To reconnect to your last screen (background process) use the command `screen -r`. Do note that this will always connect to your last connected screen. To reconnect to different screens you will need to know the id of the screen in question.
 
-To get the ids of the different screens it is easiest to use the command `screen -ls`. This returns a list of your screens, including their ids as seen below. To reconnect to a screen use `screen -r <id>`. So in this case ` screen -r 180.tty1.DESKTOP-7OCE5L2`.
+To get the ids of the different screens it is easiest to use the command `screen -ls`. This returns a list of your screens, including their ids as seen below. To reconnect to a screen use `screen -r <id>`. So in this case `screen -r 180.tty1.DESKTOP-7OCE5L2`.
 ```
 There is a screen on:
         180.tty1.DESKTOP-7OCE5L2        (10/17/22 17:26:26)     (Detached)
