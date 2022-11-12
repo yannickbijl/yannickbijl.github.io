@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-10-15 00:00:00 +0100
-tags: Soft Skills
+tags: 'Soft Skills'
 categories: Personal
 title: 'The Importance of Writing Skills'
 ---
