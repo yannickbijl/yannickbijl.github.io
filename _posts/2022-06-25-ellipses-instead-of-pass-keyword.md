@@ -2,7 +2,7 @@
 layout: post
 date: 2022-06-25 00:00:00 +0100
 tags: Python
-categories: Programming
+categories: Software-Development Programming
 title: 'Ellipses instead of Pass keyword'
 ---
 

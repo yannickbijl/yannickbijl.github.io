@@ -2,7 +2,7 @@
 layout: post
 date: 2022-07-09 01:00:00 +0100
 tags: R
-categories: Programming
+categories: Software-Development Programming
 title: 'Short Booleans in R'
 ---
 

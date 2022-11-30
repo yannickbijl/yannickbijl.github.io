@@ -2,7 +2,7 @@
 layout: post
 date: 2022-08-06 00:00:00 +0100
 tags: Other
-categories: Personal
+categories: [Personal, Software-Development]
 title: 'The Efficiency in Inefficiency'
 ---
 

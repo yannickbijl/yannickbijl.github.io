@@ -2,7 +2,7 @@
 layout: post
 date: 2022-08-20 00:00:00 +0100
 tags: Python
-categories: Programming
+categories: Software-Development Programming
 title: 'Multiple Conditions Testing in Python'
 ---
 

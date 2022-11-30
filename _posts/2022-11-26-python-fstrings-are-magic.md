@@ -2,7 +2,7 @@
 layout: post
 date: 2022-11-26 00:00:00 +0100
 tags: Python
-categories: Programming
+categories: Software-Development Programming
 title: 'Python f-Strings are Magic'
 ---
 
