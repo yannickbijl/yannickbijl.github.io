@@ -2,7 +2,7 @@
 layout: post
 date: 2022-07-23 00:00:00 +0100
 tags: Python
-categories: Programming
+categories: Software-Development Programming
 title: 'In-place Variable Swapping in Python'
 ---
 

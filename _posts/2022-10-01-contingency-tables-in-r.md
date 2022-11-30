@@ -2,7 +2,7 @@
 layout: post
 date: 2022-10-01 00:00:00 +0100
 tags: R
-categories: Programming
+categories: Software-Development Programming
 title: 'Contingency Tables in R'
 ---
 
