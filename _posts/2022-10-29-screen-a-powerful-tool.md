@@ -2,7 +2,7 @@
 layout: post
 date: 2022-10-29 00:00:00 +0100
 tags: [Linux, BASH]
-categories: Software-Development
+categories: Software-Development Tools
 title: 'Screen: A Powerful Tool'
 ---
 
