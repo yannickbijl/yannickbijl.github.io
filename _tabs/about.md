@@ -4,11 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<style>
-button { color: maroon;
-         margin-left: 40px; }
-</style>
-
 <center>
   <h1>Yannick Bijl</h1>
 </center>
@@ -21,9 +16,9 @@ Dutch - English
 
 ## **Informatics Tools & Technologies**
 Python - Anaconda - Snakemake  
-R - Tidyverse  
-BASH - Command-line  
-Git - Jira - VS Code - MS Office  
+R - Tidyverse - ggplot2  
+BASH - Commandline - SQL  
+Git - Jira - MS Office  
 
 ## **Biology Platforms**
 Illumina Targeted & Whole Transcriptome Next Generation Sequencing - 
@@ -32,7 +27,7 @@ Oxford NanoPore Sequencing - Agilent Microarrays - Fluidigm Mass Cytometry
 ---
 # **Experience**
 ## <img src="https://media-exp1.licdn.com/dms/image/C560BAQG622M0UWA47Q/company-logo_100_100/0/1601413157816?e=2147483647&v=beta&t=BgrzFNnwu7XdMdRT3BUSjU70kK4fJM3tc2L3V2AFOGQ" alt="Agendia" width="30"/> **Agendia**
-### **Bioinformatician** *Jan, 2022 - Present*
+### **Bioinformatician** *Jan, 2022 - Dec, 2022*
 Developing new platforms for the diagnostic and research tests of Agendia. Communicating progress and issues, offering and discussing solutions. Writing technical documentation.
 
 ### **Junior Bioinformatician** *Jun, 2020 - Dec, 2021*
