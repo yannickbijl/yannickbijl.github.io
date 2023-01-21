@@ -39,6 +39,6 @@ p2<- ggplot(mpg, aes(class, hwy)) +
                   map_signif_level=) +
       coord_flip()
 ```
-<img src="//assets/img/20230121/ggsignif_symbol.png" width="50%">
+<img src="/assets/img/20230121/ggsignif_symbol.png" width="50%">
 
 There are even more options available to customize the significance annotations with `ggsignif`. For those that are interested  I recommend reading the [documentation](https://cran.r-project.org/web/packages/ggsignif/ggsignif.pdf). With the basics covered here we can at least start improving our plots with significance.
