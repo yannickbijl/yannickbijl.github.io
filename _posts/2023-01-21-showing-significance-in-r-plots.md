@@ -36,7 +36,7 @@ p2 <- ggplot(mpg, aes(class, hwy)) +
       geom_boxplot() +
       ylim(NA, 48) +
       geom_signif(comparisons=list(c("compact", "midsize"), c("minivan", "suv")),
-                  map_signif_level=) +
+                  map_signif_level=T) +
       coord_flip()
 ```
 <img src="/assets/img/20230121/ggsignif_symbol.png" width="50%">
