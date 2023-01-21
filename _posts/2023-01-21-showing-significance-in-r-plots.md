@@ -32,7 +32,7 @@ Another simple change is turning the plot on its side. This is normally done wit
 library(ggplot2)
 library(ggsignif)
 
-p2<- ggplot(mpg, aes(class, hwy)) +
+p2 <- ggplot(mpg, aes(class, hwy)) +
       geom_boxplot() +
       ylim(NA, 48) +
       geom_signif(comparisons=list(c("compact", "midsize"), c("minivan", "suv")),
